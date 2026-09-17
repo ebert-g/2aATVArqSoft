@@ -28,3 +28,14 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# IntelliJ IDEA project files
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+build/
+*.class
+
+# macOS
+.DS_Store
